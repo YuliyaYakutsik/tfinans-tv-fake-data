@@ -92,7 +92,7 @@
         }
     ],
     "users": {
-        "currentOnlineUsers": 55
+        "amountCurrentOnline": 55
     },
     "income": {
         "currentMonth": "12834.87",
