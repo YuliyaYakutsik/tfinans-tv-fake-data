@@ -92,5 +92,8 @@
         "currentMonth": "12834.87",
         "currentYear": "32834.87",
         "currentYearGoal": "3500000"
+    },
+    "loans": {
+        "amountCurrentYear": 230
     }
 }
