@@ -1,0 +1,96 @@
+{
+    "conversion": {
+        "categories": [
+            {
+                "title": "Boliglån",
+                "icon": "ico-boliglan",
+                "loansAmountCurrentDay": 10,
+                "loansAmountCurrentWeek": 30,
+                "loansAmountCurrentMonth": 55,
+                "loansAmountCurrentYear": 155,
+                "incomeCurrentMonth": "1234.87",
+                "incomeCurrentYear": "486034.87"
+            },
+            {
+                "title": "Lån kjøretøy",
+                "icon": "ico-car",
+                "loansAmountCurrentDay": 8,
+                "loansAmountCurrentWeek": 32,
+                "loansAmountCurrentMonth": 51,
+                "loansAmountCurrentYear": 125,
+                "incomeCurrentMonth": "1934.87",
+                "incomeCurrentYear": "386034.87"
+            },
+            {
+                "title": "Omstartslån",
+                "icon": "ico-omstartslan",
+                "loansAmountCurrentDay": 12,
+                "loansAmountCurrentWeek": 38,
+                "loansAmountCurrentMonth": 59,
+                "loansAmountCurrentYear": 164,
+                "incomeCurrentMonth": "2234.87",
+                "incomeCurrentYear": "586034.87"
+            },
+            {
+                "title": "Forbrukslån",
+                "icon": "ico-forbrukslan",
+                "loansAmountCurrentDay": 11,
+                "loansAmountCurrentWeek": 39,
+                "loansAmountCurrentMonth": 52,
+                "loansAmountCurrentYear": 135,
+                "incomeCurrentMonth": "1834.87",
+                "incomeCurrentYear": "496034.87"
+            }
+        ],
+        "sellers": [
+            {
+                "name": "Thomas",
+                "photo": "http://geekon.by/projects/tt/images/vis-dan.jpg",
+                "loansAmountCurrentWeek": 12,
+                "loansAmountCurrentMonth": 32,
+                "loansAmountCurrentYear": 132,
+                "incomeCurrentWeek": "1834.87",
+                "incomeCurrentMonth": "12834.87",
+                "incomeCurrentYear": "32834.87"
+            },
+            {
+                "name": "Pål",
+                "photo": "http://geekon.by/projects/tt/images/vis-dan.jpg",
+                "loansAmountCurrentWeek": 12,
+                "loansAmountCurrentMonth": 32,
+                "loansAmountCurrentYear": 132,
+                "incomeCurrentWeek": "1834.87",
+                "incomeCurrentMonth": "12834.87",
+                "incomeCurrentYear": "32834.87"
+            },
+            {
+                "name": "Dan Bendik",
+                "photo": "http://geekon.by/projects/tt/images/vis-dan.jpg",
+                "loansAmountCurrentWeek": 12,
+                "loansAmountCurrentMonth": 32,
+                "loansAmountCurrentYear": 132,
+                "incomeCurrentWeek": "1834.87",
+                "incomeCurrentMonth": "12834.87",
+                "incomeCurrentYear": "32834.87"
+            },
+            {
+                "name": "Magnus",
+                "photo": "http://geekon.by/projects/tt/images/vis-dan.jpg",
+                "loansAmountCurrentWeek": 12,
+                "loansAmountCurrentMonth": 32,
+                "loansAmountCurrentYear": 132,
+                "incomeCurrentWeek": "1834.87",
+                "incomeCurrentMonth": "12834.87",
+                "incomeCurrentYear": "32834.87"
+            }
+        ]
+    },
+    "users": {
+        "currentOnlineUsers": 55
+    },
+    "income": {
+        "currentMonth": "12834.87",
+        "currentYear": "32834.87",
+        "currentYearGoal": "3500000"
+    }
+}
