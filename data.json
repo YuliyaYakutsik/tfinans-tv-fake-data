@@ -97,7 +97,8 @@
     "income": {
         "currentMonth": "12834.87",
         "currentYear": "1523000",
-        "currentYearGoal": "3500000"
+        "currentYearGoal": "3500000",
+        "currentYearGoalTitle": "3,5 mill"
     },
     "loans": {
         "amountCurrentYear": 230,
