@@ -49,7 +49,7 @@
         {
             "id": "123",
             "name": "Thomas",
-            "photo": "http://geekon.by/projects/tt/images/vis-dan.jpg",
+            "photo": "/images/vis-dan.jpg",
             "loansAmountCurrentWeek": 12,
             "loansAmountCurrentMonth": 32,
             "loansAmountCurrentYear": 132,
@@ -60,7 +60,7 @@
         {
             "id": "124",
             "name": "Pål",
-            "photo": "http://geekon.by/projects/tt/images/vis-dan.jpg",
+            "photo": "/images/vis-dan.jpg",
             "loansAmountCurrentWeek": 12,
             "loansAmountCurrentMonth": 32,
             "loansAmountCurrentYear": 132,
@@ -71,7 +71,7 @@
         {
             "id": "125",
             "name": "Dan Bendik",
-            "photo": "http://geekon.by/projects/tt/images/vis-dan.jpg",
+            "photo": "/images/vis-dan.jpg",
             "loansAmountCurrentWeek": 12,
             "loansAmountCurrentMonth": 32,
             "loansAmountCurrentYear": 132,
@@ -82,7 +82,7 @@
         {
             "id": "126",
             "name": "Magnus",
-            "photo": "http://geekon.by/projects/tt/images/vis-dan.jpg",
+            "photo": "/images/vis-dan.jpg",
             "loansAmountCurrentWeek": 12,
             "loansAmountCurrentMonth": 32,
             "loansAmountCurrentYear": 132,
