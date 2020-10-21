@@ -1,107 +1,129 @@
 {
     "categories": [
         {
-            "id": "54365743657",
-            "title": "Boliglån",
-            "icon": "ico-boliglan",
-            "applicationsCurrentDay": 10,
-            "applicationsCurrentWeek": 30,
-            "applicationsCurrentMonth": 55,
-            "paidOutAmountCurrentYear": 155,
-            "incomeCurrentMonth": "1234.87",
-            "incomeCurrentYear": "486034.87"
-        },
-        {
-            "id": "543536546",
-            "title": "Lån kjøretøy",
-            "icon": "ico-car",
-            "applicationsCurrentDay": 8,
-            "applicationsCurrentWeek": 32,
-            "applicationsCurrentMonth": 51,
-            "paidOutAmountCurrentYear": 125,
-            "incomeCurrentMonth": "1934.87",
-            "incomeCurrentYear": "386034.87"
-        },
-        {
-            "id": "5435365465",
-            "title": "Omstartslån",
-            "icon": "ico-omstartslan",
-            "applicationsCurrentDay": 12,
-            "applicationsCurrentWeek": 38,
-            "applicationsCurrentMonth": 59,
-            "paidOutAmountCurrentYear": 164,
-            "incomeCurrentMonth": "2234.87",
-            "incomeCurrentYear": "586034.87"
-        },
-        {
-            "id": "54353654625",
+            "id": 1,
             "title": "Forbrukslån",
             "icon": "ico-forbrukslan",
-            "applicationsCurrentDay": 11,
-            "applicationsCurrentWeek": 39,
-            "applicationsCurrentMonth": 52,
-            "paidOutAmountCurrentYear": 135,
-            "incomeCurrentMonth": "1834.87",
-            "incomeCurrentYear": "496034.87"
+            "applicationsCurrentDay": 1,
+            "applicationsCurrentWeek": 10,
+            "applicationsCurrentMonth": 83,
+            "paidOutAmountCurrentYear": 59,
+            "incomeCurrentMonth": 0,
+            "incomeCurrentYear": 409745.91
+        },
+        {
+            "id": 2,
+            "title": "Boliglån",
+            "icon": "ico-boliglan",
+            "applicationsCurrentDay": 3,
+            "applicationsCurrentWeek": 28,
+            "applicationsCurrentMonth": 145,
+            "paidOutAmountCurrentYear": 60,
+            "incomeCurrentMonth": 128910,
+            "incomeCurrentYear": 786221.41
+        },
+        {
+            "id": 3,
+            "title": "Omstartslån",
+            "icon": "ico-omstartslan",
+            "applicationsCurrentDay": 2,
+            "applicationsCurrentWeek": 8,
+            "applicationsCurrentMonth": 43,
+            "paidOutAmountCurrentYear": 24,
+            "incomeCurrentMonth": 82585.5,
+            "incomeCurrentYear": 626525.62
+        },
+        {
+            "id": 4,
+            "title": "Lån til kjøretøy",
+            "icon": "ico-car",
+            "applicationsCurrentDay": 12,
+            "applicationsCurrentWeek": 55,
+            "applicationsCurrentMonth": 142,
+            "paidOutAmountCurrentYear": 100,
+            "incomeCurrentMonth": 29250.89,
+            "incomeCurrentYear": 588414.46
         }
     ],
     "sellers": [
         {
-            "id": "123",
-            "name": "Thomas",
-            "photo": "/images/vis-thomas.png",
-            "loansAmountCurrentWeek": 12,
-            "loansAmountCurrentMonth": 32,
-            "loansAmountCurrentYear": 132,
-            "incomeCurrentWeek": "1834.87",
-            "incomeCurrentMonth": "12834.87",
-            "incomeCurrentYear": "32834.87"
+            "id": 6052,
+            "name": "Anita Erichsen",
+            "photo": "/images/vis-woman.png",
+            "loansAmountCurrentWeek": 1,
+            "loansAmountCurrentMonth": 3,
+            "loansAmountCurrentYear": 5,
+            "incomeCurrentWeek": 4395.65,
+            "incomeCurrentMonth": 10677.6,
+            "incomeCurrentYear": 10677.6
         },
         {
-            "id": "124",
-            "name": "Pål",
-            "photo": "/images/vis-pal.png",
-            "loansAmountCurrentWeek": 12,
-            "loansAmountCurrentMonth": 32,
-            "loansAmountCurrentYear": 132,
-            "incomeCurrentWeek": "1834.87",
-            "incomeCurrentMonth": "12834.87",
-            "incomeCurrentYear": "32834.87"
-        },
-        {
-            "id": "125",
+            "id": 1858,
             "name": "Dan Bendik",
             "photo": "/images/vis-dan.png",
-            "loansAmountCurrentWeek": 12,
-            "loansAmountCurrentMonth": 32,
-            "loansAmountCurrentYear": 132,
-            "incomeCurrentWeek": "1834.87",
-            "incomeCurrentMonth": "12834.87",
-            "incomeCurrentYear": "32834.87"
+            "loansAmountCurrentWeek": 0,
+            "loansAmountCurrentMonth": 2,
+            "loansAmountCurrentYear": 96,
+            "incomeCurrentWeek": 0,
+            "incomeCurrentMonth": 9158.23,
+            "incomeCurrentYear": 642357.57
         },
         {
-            "id": "126",
-            "name": "Magnus",
+            "id": 2642,
+            "name": "Hans-Erik Trulsen",
+            "photo": "/images/vis-man.png",
+            "loansAmountCurrentWeek": 0,
+            "loansAmountCurrentMonth": 0,
+            "loansAmountCurrentYear": 0,
+            "incomeCurrentWeek": 0,
+            "incomeCurrentMonth": 0,
+            "incomeCurrentYear": 0
+        },
+        {
+            "id": 8,
+            "name": "Magnus Nebo",
             "photo": "/images/vis-magnus.png",
-            "loansAmountCurrentWeek": 12,
-            "loansAmountCurrentMonth": 32,
-            "loansAmountCurrentYear": 132,
-            "incomeCurrentWeek": "1834.87",
-            "incomeCurrentMonth": "12834.87",
-            "incomeCurrentYear": "32834.87"
+            "loansAmountCurrentWeek": 0,
+            "loansAmountCurrentMonth": 5,
+            "loansAmountCurrentYear": 56,
+            "incomeCurrentWeek": 0,
+            "incomeCurrentMonth": 26401,
+            "incomeCurrentYear": 722005.05
+        },
+        {
+            "id": 7,
+            "name": "Pål Leksan",
+            "photo": "/images/vis-pal.png",
+            "loansAmountCurrentWeek": 0,
+            "loansAmountCurrentMonth": 3,
+            "loansAmountCurrentYear": 54,
+            "incomeCurrentWeek": 0,
+            "incomeCurrentMonth": 19180,
+            "incomeCurrentYear": 380486.05
+        },
+        {
+            "id": 1968,
+            "name": "Thomas Sagplads",
+            "photo": "/images/vis-thomas.png",
+            "loansAmountCurrentWeek": 0,
+            "loansAmountCurrentMonth": 0,
+            "loansAmountCurrentYear": 50,
+            "incomeCurrentWeek": 0,
+            "incomeCurrentMonth": 0,
+            "incomeCurrentYear": 742972.08
         }
     ],
     "users": {
-        "currentOnline": 55
+        "currentOnline": 45
     },
     "income": {
-        "currentMonth": "12834.87",
-        "currentYear": "1523000",
-        "currentYearGoal": "3500000",
+        "currentMonth": 66216.83,
+        "currentYear": 2507348.35,
+        "currentYearGoal": 3500000,
         "currentYearGoalTitle": "3,5 mill"
     },
     "loans": {
-        "amountCurrentYear": 230,
-        "amountUnprocessedSourceTjenestetorget": 23
+        "amountCurrentYear": 255,
+        "amountUnprocessedSourceTjenestetorget": 54
     }
 }
