@@ -26,9 +26,9 @@
             "id": 3,
             "title": "Omstartslån",
             "icon": "ico-omstartslan",
-            "applicationsCurrentDay": 2,
-            "applicationsCurrentWeek": 8,
-            "applicationsCurrentMonth": 43,
+            "applicationsCurrentDay": 5,
+            "applicationsCurrentWeek": 11,
+            "applicationsCurrentMonth": 46,
             "paidOutAmountCurrentYear": 24,
             "incomeCurrentMonth": 82585.5,
             "incomeCurrentYear": 626525.62
@@ -37,9 +37,9 @@
             "id": 4,
             "title": "Lån til kjøretøy",
             "icon": "ico-car",
-            "applicationsCurrentDay": 12,
-            "applicationsCurrentWeek": 55,
-            "applicationsCurrentMonth": 142,
+            "applicationsCurrentDay": 15,
+            "applicationsCurrentWeek": 58,
+            "applicationsCurrentMonth": 145,
             "paidOutAmountCurrentYear": 100,
             "incomeCurrentMonth": 29250.89,
             "incomeCurrentYear": 588414.46
@@ -50,9 +50,9 @@
             "id": 6052,
             "name": "Anita Erichsen",
             "photo": "/images/vis-woman.png",
-            "loansAmountCurrentWeek": 1,
-            "loansAmountCurrentMonth": 3,
-            "loansAmountCurrentYear": 5,
+            "loansAmountCurrentWeek": 2,
+            "loansAmountCurrentMonth": 4,
+            "loansAmountCurrentYear": 6,
             "incomeCurrentWeek": 4395.65,
             "incomeCurrentMonth": 10677.6,
             "incomeCurrentYear": 10677.6
@@ -117,13 +117,13 @@
         "currentOnline": 45
     },
     "income": {
-        "currentMonth": 66216.83,
-        "currentYear": 2507348.35,
+        "currentMonth": 240746.39,
+        "currentYear": 2410907.4,
         "currentYearGoal": 3500000,
         "currentYearGoalTitle": "3,5 mill"
     },
     "loans": {
-        "amountCurrentYear": 255,
-        "amountUnprocessedSourceTjenestetorget": 54
+        "amountCurrentYear": 243,
+        "amountUnprocessedSourceTjenestetorget": 47
     }
 }
