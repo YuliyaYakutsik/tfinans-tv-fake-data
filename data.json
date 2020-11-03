@@ -7,7 +7,7 @@
             "applicationsCurrentDay": 1,
             "applicationsCurrentWeek": 10,
             "applicationsCurrentMonth": 83,
-            "paidOutAmountCurrentYear": 59,
+            "paidOutAmountCurrentMonth": 59,
             "incomeCurrentMonth": 0,
             "incomeCurrentYear": 409745.91
         },
@@ -18,7 +18,7 @@
             "applicationsCurrentDay": 3,
             "applicationsCurrentWeek": 28,
             "applicationsCurrentMonth": 145,
-            "paidOutAmountCurrentYear": 60,
+            "paidOutAmountCurrentMonth": 60,
             "incomeCurrentMonth": 128910,
             "incomeCurrentYear": 786221.41
         },
@@ -29,7 +29,7 @@
             "applicationsCurrentDay": 5,
             "applicationsCurrentWeek": 11,
             "applicationsCurrentMonth": 46,
-            "paidOutAmountCurrentYear": 24,
+            "paidOutAmountCurrentMonth": 24,
             "incomeCurrentMonth": 82585.5,
             "incomeCurrentYear": 626525.62
         },
@@ -40,7 +40,7 @@
             "applicationsCurrentDay": 15,
             "applicationsCurrentWeek": 58,
             "applicationsCurrentMonth": 145,
-            "paidOutAmountCurrentYear": 100,
+            "paidOutAmountCurrentMonth": 100,
             "incomeCurrentMonth": 29250.89,
             "incomeCurrentYear": 588414.46
         }
@@ -124,6 +124,7 @@
     },
     "loans": {
         "amountCurrentYear": 243,
+        "paidOutAmountCurrentMonthTotal": 230,
         "amountUnprocessedSourceTjenestetorget": 47
     }
 }
