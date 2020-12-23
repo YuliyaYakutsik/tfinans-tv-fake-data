@@ -57,7 +57,7 @@
             "incomeCurrentWeek": 4395.65,
             "incomeCurrentMonth": 10677.6,
             "incomeCurrentYear": 10677.6,
-            "incomeGoalCurrentMonth": 1200,
+            "incomeGoalCurrentMonth": 12000,
             "incomeBoliglanCurrentMonth": 12000,
             "incomeLanKjoretoyCurrentMonth": 10000,
             "incomeOmstartslanCurrentMonth": 12000,
@@ -154,8 +154,8 @@
     },
     "income": {
         "currentMonth": 240746.39,
-        "currentMonth"
-        "currentYear": 2410907.4,
+        "currentMonthGoal": 270000,
+        "currentYear": 4410907.4,
         "currentYearGoal": 3500000,
         "currentYearGoalTitle": "3,5 mill"
     },
