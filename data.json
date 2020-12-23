@@ -53,9 +53,11 @@
             "loansAmountCurrentWeek": 2,
             "loansAmountCurrentMonth": 4,
             "loansAmountCurrentYear": 6,
+            "loansAmountBudgetCurrentMonth": 10,
             "incomeCurrentWeek": 4395.65,
             "incomeCurrentMonth": 10677.6,
-            "incomeCurrentYear": 10677.6
+            "incomeCurrentYear": 10677.6,
+            "incomeBudgetCurrentMonth": 12000
         },
         {
             "id": 1858,
@@ -64,9 +66,11 @@
             "loansAmountCurrentWeek": 0,
             "loansAmountCurrentMonth": 2,
             "loansAmountCurrentYear": 96,
+            "loansAmountBudgetCurrentMonth": 100,
             "incomeCurrentWeek": 0,
             "incomeCurrentMonth": 9158.23,
-            "incomeCurrentYear": 642357.57
+            "incomeCurrentYear": 642357.57,
+            "incomeBudgetCurrentMonth": 10000
         },
         {
             "id": 2642,
@@ -75,9 +79,11 @@
             "loansAmountCurrentWeek": 0,
             "loansAmountCurrentMonth": 0,
             "loansAmountCurrentYear": 0,
+            "loansAmountBudgetCurrentMonth": 80,
             "incomeCurrentWeek": 0,
             "incomeCurrentMonth": 0,
-            "incomeCurrentYear": 0
+            "incomeCurrentYear": 0,
+            "incomeBudgetCurrentMonth": 12000
         },
         {
             "id": 8,
@@ -86,9 +92,11 @@
             "loansAmountCurrentWeek": 0,
             "loansAmountCurrentMonth": 5,
             "loansAmountCurrentYear": 56,
+            "loansAmountBudgetCurrentMonth": 10,
             "incomeCurrentWeek": 0,
             "incomeCurrentMonth": 26401,
-            "incomeCurrentYear": 722005.05
+            "incomeCurrentYear": 722005.05,
+            "incomeBudgetCurrentMonth": 10000
         },
         {
             "id": 7,
@@ -97,9 +105,11 @@
             "loansAmountCurrentWeek": 0,
             "loansAmountCurrentMonth": 3,
             "loansAmountCurrentYear": 54,
+            "loansAmountBudgetCurrentMonth": 10,
             "incomeCurrentWeek": 0,
             "incomeCurrentMonth": 19180,
-            "incomeCurrentYear": 380486.05
+            "incomeCurrentYear": 380486.05,
+            "incomeBudgetCurrentMonth": 12000
         },
         {
             "id": 1968,
@@ -108,9 +118,11 @@
             "loansAmountCurrentWeek": 0,
             "loansAmountCurrentMonth": 0,
             "loansAmountCurrentYear": 50,
+            "loansAmountBudgetCurrentMonth": 10,
             "incomeCurrentWeek": 0,
             "incomeCurrentMonth": 0,
-            "incomeCurrentYear": 742972.08
+            "incomeCurrentYear": 742972.08,
+            "incomeBudgetCurrentMonth": 12000
         }
     ],
     "users": {
