@@ -57,7 +57,11 @@
             "incomeCurrentWeek": 4395.65,
             "incomeCurrentMonth": 10677.6,
             "incomeCurrentYear": 10677.6,
-            "incomeBudgetCurrentMonth": 12000
+            "incomeBudgetCurrentMonth": 12000,
+            "incomeBoliglanCurrentMonth": 12000,
+            "incomeLanKjoretoyCurrentMonth": 10000,
+            "incomeOmstartslanCurrentMonth": 12000,
+            "incomeForbrukslanCurrentMonth": 10000
         },
         {
             "id": 1858,
@@ -70,7 +74,11 @@
             "incomeCurrentWeek": 0,
             "incomeCurrentMonth": 9158.23,
             "incomeCurrentYear": 642357.57,
-            "incomeBudgetCurrentMonth": 10000
+            "incomeBudgetCurrentMonth": 10000,
+            "incomeBoliglanCurrentMonth": 10000,
+            "incomeLanKjoretoyCurrentMonth": 12000,
+            "incomeOmstartslanCurrentMonth": 10000,
+            "incomeForbrukslanCurrentMonth": 12000
         },
         {
             "id": 2642,
@@ -83,7 +91,11 @@
             "incomeCurrentWeek": 0,
             "incomeCurrentMonth": 0,
             "incomeCurrentYear": 0,
-            "incomeBudgetCurrentMonth": 12000
+            "incomeBudgetCurrentMonth": 12000,
+            "incomeBoliglanCurrentMonth": 12000,
+            "incomeLanKjoretoyCurrentMonth": 10000,
+            "incomeOmstartslanCurrentMonth": 12000,
+            "incomeForbrukslanCurrentMonth": 10000
         },
         {
             "id": 8,
@@ -96,7 +108,11 @@
             "incomeCurrentWeek": 0,
             "incomeCurrentMonth": 26401,
             "incomeCurrentYear": 722005.05,
-            "incomeBudgetCurrentMonth": 10000
+            "incomeBudgetCurrentMonth": 10000,
+            "incomeBoliglanCurrentMonth": 10000,
+            "incomeLanKjoretoyCurrentMonth": 12000,
+            "incomeOmstartslanCurrentMonth": 10000,
+            "incomeForbrukslanCurrentMonth": 12000
         },
         {
             "id": 7,
@@ -109,7 +125,11 @@
             "incomeCurrentWeek": 0,
             "incomeCurrentMonth": 19180,
             "incomeCurrentYear": 380486.05,
-            "incomeBudgetCurrentMonth": 12000
+            "incomeBudgetCurrentMonth": 12000,
+            "incomeBoliglanCurrentMonth": 12000,
+            "incomeLanKjoretoyCurrentMonth": 10000,
+            "incomeOmstartslanCurrentMonth": 12000,
+            "incomeForbrukslanCurrentMonth": 10000
         },
         {
             "id": 1968,
@@ -122,7 +142,11 @@
             "incomeCurrentWeek": 0,
             "incomeCurrentMonth": 0,
             "incomeCurrentYear": 742972.08,
-            "incomeBudgetCurrentMonth": 12000
+            "incomeBudgetCurrentMonth": 12000,
+            "incomeBoliglanCurrentMonth": 10000,
+            "incomeLanKjoretoyCurrentMonth": 12000,
+            "incomeOmstartslanCurrentMonth": 10000,
+            "incomeForbrukslanCurrentMonth": 12000
         }
     ],
     "users": {
