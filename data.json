@@ -189,7 +189,9 @@
         "currentYearGoalSoFar": 3900000,
         "currentYearPortfolioComissionSoFar": 220000,
         "currentYearDeductionInComissionSoFar": 220000,
-        "currentYearGoalTitle": "3,5 mill"
+        "currentYearGoalTitle": "3,5 mill",
+        "currentYearGoalProgress": 38562,
+        "currentYearGoalProgressTitle": "some"
     },
     "loans": {
         "amountCurrentYear": 243,
