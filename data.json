@@ -286,6 +286,7 @@
     "loans": {
         "amountCurrentYear": 243,
         "paidOutAmountCurrentMonthTotal": 230,
-        "amountUnprocessedSourceTjenestetorget": 47
+        "amountUnprocessedSourceTjenestetorget": 47,
+        "leadsAmountUnprocessedSourceTjenestetorget": 68
     }
 }
