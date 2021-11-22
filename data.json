@@ -75,7 +75,12 @@
             "incomeBoliglanCurrentMonth": 12000,
             "incomeLanKjoretoyCurrentMonth": 10000,
             "incomeOmstartslanCurrentMonth": 12000,
-            "incomeForbrukslanCurrentMonth": 10000
+            "incomeForbrukslanCurrentMonth": 10000,
+            "appsCountNotWorkedWith": 5,
+            "appsCountNoContact": 3,
+            "appsCountUnderWork": 2,
+            "appsCountSent": 13,
+            "appsCountSentThisMonth": 10
         },
         {
             "id": 1858,
@@ -106,7 +111,12 @@
             "incomeBoliglanCurrentMonth": 10000,
             "incomeLanKjoretoyCurrentMonth": 12000,
             "incomeOmstartslanCurrentMonth": 10000,
-            "incomeForbrukslanCurrentMonth": 12000
+            "incomeForbrukslanCurrentMonth": 12000,
+            "appsCountNotWorkedWith": 4,
+            "appsCountNoContact": 3,
+            "appsCountUnderWork": 2,
+            "appsCountSent": 13,
+            "appsCountSentThisMonth": 10
         },
         {
             "id": 2642,
@@ -137,7 +147,12 @@
             "incomeBoliglanCurrentMonth": 12000,
             "incomeLanKjoretoyCurrentMonth": 10000,
             "incomeOmstartslanCurrentMonth": 12000,
-            "incomeForbrukslanCurrentMonth": 10000
+            "incomeForbrukslanCurrentMonth": 10000,
+            "appsCountNotWorkedWith": 5,
+            "appsCountNoContact": 1,
+            "appsCountUnderWork": 2,
+            "appsCountSent": 13,
+            "appsCountSentThisMonth": 10
         },
         {
             "id": 8,
@@ -168,7 +183,12 @@
             "incomeBoliglanCurrentMonth": 10000,
             "incomeLanKjoretoyCurrentMonth": 12000,
             "incomeOmstartslanCurrentMonth": 10000,
-            "incomeForbrukslanCurrentMonth": 12000
+            "incomeForbrukslanCurrentMonth": 12000,
+            "appsCountNotWorkedWith": 5,
+            "appsCountNoContact": 3,
+            "appsCountUnderWork": 1,
+            "appsCountSent": 13,
+            "appsCountSentThisMonth": 10
         },
         {
             "id": 7,
@@ -199,7 +219,12 @@
             "incomeBoliglanCurrentMonth": 12000,
             "incomeLanKjoretoyCurrentMonth": 10000,
             "incomeOmstartslanCurrentMonth": 12000,
-            "incomeForbrukslanCurrentMonth": 10000
+            "incomeForbrukslanCurrentMonth": 10000,
+            "appsCountNotWorkedWith": 5,
+            "appsCountNoContact": 3,
+            "appsCountUnderWork": 2,
+            "appsCountSent": 17,
+            "appsCountSentThisMonth": 10
         },
         {
             "id": 1968,
@@ -230,7 +255,12 @@
             "incomeBoliglanCurrentMonth": 10000,
             "incomeLanKjoretoyCurrentMonth": 12000,
             "incomeOmstartslanCurrentMonth": 10000,
-            "incomeForbrukslanCurrentMonth": 12000
+            "incomeForbrukslanCurrentMonth": 12000,
+            "appsCountNotWorkedWith": 5,
+            "appsCountNoContact": 3,
+            "appsCountUnderWork": 2,
+            "appsCountSent": 13,
+            "appsCountSentThisMonth": 9
         }
     ],
     "users": {
