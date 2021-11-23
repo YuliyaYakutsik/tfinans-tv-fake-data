@@ -9,7 +9,100 @@
             "applicationsCurrentMonth": 83,
             "paidOutAmountCurrentMonth": 59,
             "incomeCurrentMonth": 0,
-            "incomeCurrentYear": 409745.91
+            "incomeCurrentYear": 409745.91,
+            "banks": [
+                {
+                    "id": 1,
+                    "name": "Bank 1",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                },
+                {
+                    "id": 2,
+                    "name": "Bank 2",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                },
+                {
+                    "id": 3,
+                    "name": "Bank 3",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                },
+                {
+                    "id": 4,
+                    "name": "Bank 4",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                },
+                {
+                    "id": 5,
+                    "name": "Bank 5",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                },
+                {
+                    "id": 6,
+                    "name": "Bank 6",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                },
+                {
+                    "id": 7,
+                    "name": "Bank 7",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                }
+            ]
         },
         {
             "id": 2,
@@ -20,7 +113,48 @@
             "applicationsCurrentMonth": 145,
             "paidOutAmountCurrentMonth": 60,
             "incomeCurrentMonth": 128910,
-            "incomeCurrentYear": 786221.41
+            "incomeCurrentYear": 786221.41,
+            "banks": [
+                {
+                    "id": 1,
+                    "name": "Bank 1",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                },
+                {
+                    "id": 2,
+                    "name": "Bank 2",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                },
+                {
+                    "id": 3,
+                    "name": "Bank 3",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                }
+            ]
         },
         {
             "id": 3,
@@ -31,7 +165,48 @@
             "applicationsCurrentMonth": 46,
             "paidOutAmountCurrentMonth": 24,
             "incomeCurrentMonth": 82585.5,
-            "incomeCurrentYear": 626525.62
+            "incomeCurrentYear": 626525.62,
+            "banks": [
+                {
+                    "id": 1,
+                    "name": "Bank 1",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                },
+                {
+                    "id": 2,
+                    "name": "Bank 2",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                },
+                {
+                    "id": 3,
+                    "name": "Bank 3",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                }
+            ]
         },
         {
             "id": 4,
@@ -42,7 +217,48 @@
             "applicationsCurrentMonth": 145,
             "paidOutAmountCurrentMonth": 100,
             "incomeCurrentMonth": 29250.89,
-            "incomeCurrentYear": 588414.46
+            "incomeCurrentYear": 588414.46,
+            "banks": [
+                {
+                    "id": 1,
+                    "name": "Bank 1",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                },
+                {
+                    "id": 2,
+                    "name": "Bank 2",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                },
+                {
+                    "id": 3,
+                    "name": "Bank 3",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                }
+            ]
         }
     ],
     "sellers": [
