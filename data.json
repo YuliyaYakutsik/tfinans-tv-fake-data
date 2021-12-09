@@ -261,6 +261,110 @@
             ]
         }
     ],
+    "categoriesTotal": {
+        "title": "total",
+        "icon": "",
+        "applicationsCurrentDay": 0,
+        "applicationsCurrentWeek": 8,
+        "applicationsCurrentMonth": 32,
+        "paidOutAmountCurrentMonth": 6,
+        "incomeCurrentMonth": 55843,
+        "incomeCurrentYear": 1781597,
+        "applicationMonthIds": [19681, 19745, 19787, 19844, 19860, 19915],
+        "banks": [
+            {
+                "id": 1,
+                "name": "Bank 1",
+                "discountedLoansThisMonth": 5,
+                "discountedLoansLastMonth": 10,
+                "discountedLoansThisYear": 35,
+                "paidOutLoansThisMonth": 35,
+                "paidOutLoansLastMonth": 35,
+                "paidOutLoansThisYear": 35,
+                "TTFComissionThisMonth": 35,
+                "TTFComissionLastMonth": 35,
+                "TTFComissionThisYear": 35
+            },
+            {
+                "id": 2,
+                "name": "Bank 2",
+                "discountedLoansThisMonth": 5,
+                "discountedLoansLastMonth": 10,
+                "discountedLoansThisYear": 35,
+                "paidOutLoansThisMonth": 35,
+                "paidOutLoansLastMonth": 35,
+                "paidOutLoansThisYear": 35,
+                "TTFComissionThisMonth": 35,
+                "TTFComissionLastMonth": 35,
+                "TTFComissionThisYear": 35
+            },
+            {
+                "id": 3,
+                "name": "Bank 3",
+                "discountedLoansThisMonth": 5,
+                "discountedLoansLastMonth": 10,
+                "discountedLoansThisYear": 35,
+                "paidOutLoansThisMonth": 35,
+                "paidOutLoansLastMonth": 35,
+                "paidOutLoansThisYear": 35,
+                "TTFComissionThisMonth": 35,
+                "TTFComissionLastMonth": 35,
+                "TTFComissionThisYear": 35
+            },
+            {
+                "id": 4,
+                "name": "Bank 4",
+                "discountedLoansThisMonth": 5,
+                "discountedLoansLastMonth": 10,
+                "discountedLoansThisYear": 35,
+                "paidOutLoansThisMonth": 35,
+                "paidOutLoansLastMonth": 35,
+                "paidOutLoansThisYear": 35,
+                "TTFComissionThisMonth": 35,
+                "TTFComissionLastMonth": 35,
+                "TTFComissionThisYear": 35
+            },
+            {
+                "id": 5,
+                "name": "Bank 5",
+                "discountedLoansThisMonth": 5,
+                "discountedLoansLastMonth": 10,
+                "discountedLoansThisYear": 35,
+                "paidOutLoansThisMonth": 35,
+                "paidOutLoansLastMonth": 35,
+                "paidOutLoansThisYear": 35,
+                "TTFComissionThisMonth": 35,
+                "TTFComissionLastMonth": 35,
+                "TTFComissionThisYear": 35
+            },
+            {
+                "id": 6,
+                "name": "Bank 6",
+                "discountedLoansThisMonth": 5,
+                "discountedLoansLastMonth": 10,
+                "discountedLoansThisYear": 35,
+                "paidOutLoansThisMonth": 35,
+                "paidOutLoansLastMonth": 35,
+                "paidOutLoansThisYear": 35,
+                "TTFComissionThisMonth": 35,
+                "TTFComissionLastMonth": 35,
+                "TTFComissionThisYear": 35
+            },
+            {
+                "id": 7,
+                "name": "Bank 7",
+                "discountedLoansThisMonth": 5,
+                "discountedLoansLastMonth": 10,
+                "discountedLoansThisYear": 35,
+                "paidOutLoansThisMonth": 35,
+                "paidOutLoansLastMonth": 35,
+                "paidOutLoansThisYear": 35,
+                "TTFComissionThisMonth": 35,
+                "TTFComissionLastMonth": 35,
+                "TTFComissionThisYear": 35
+            }
+        ]
+    },
     "sellers": [
         {
             "id": 6052,
