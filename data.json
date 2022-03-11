@@ -1,4 +1,6 @@
 {
+    "pastWorkingDays": "24",
+    "totalWorkingDays": "30",
     "categories": [
         {
             "id": 1,
