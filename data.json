@@ -261,6 +261,58 @@
                     "TTFComissionThisYear": 35
                 }
             ]
+        },
+        {
+            "id": 5,
+            "title": "Bedriftslan",
+            "icon": "ico-bedriftslan",
+            "applicationsCurrentDay": 15,
+            "applicationsCurrentWeek": 58,
+            "applicationsCurrentMonth": 145,
+            "paidOutAmountCurrentMonth": 100,
+            "incomeCurrentMonth": 29250.89,
+            "incomeCurrentYear": 588414.46,
+            "banks": [
+                {
+                    "id": 1,
+                    "name": "Bank 1",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                },
+                {
+                    "id": 2,
+                    "name": "Bank 2",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                },
+                {
+                    "id": 3,
+                    "name": "Bank 3",
+                    "discountedLoansThisMonth": 5,
+                    "discountedLoansLastMonth": 10,
+                    "discountedLoansThisYear": 35,
+                    "paidOutLoansThisMonth": 35,
+                    "paidOutLoansLastMonth": 35,
+                    "paidOutLoansThisYear": 35,
+                    "TTFComissionThisMonth": 35,
+                    "TTFComissionLastMonth": 35,
+                    "TTFComissionThisYear": 35
+                }
+            ]
         }
     ],
     "categoriesTotal": {
@@ -409,6 +461,7 @@
             "incomeLanKjoretoyCurrentMonth": 10000,
             "incomeOmstartslanCurrentMonth": 12000,
             "incomeForbrukslanCurrentMonth": 10000,
+            "incomeBedriftslanCurrentMonth": 1000,
             "appsCountNotWorkedWith": 5,
             "appsCountNoContact": 3,
             "appsCountUnderWork": 2,
@@ -456,6 +509,7 @@
             "incomeLanKjoretoyCurrentMonth": 12000,
             "incomeOmstartslanCurrentMonth": 10000,
             "incomeForbrukslanCurrentMonth": 12000,
+            "incomeBedriftslanCurrentMonth": 1000,
             "appsCountNotWorkedWith": 4,
             "appsCountNoContact": 3,
             "appsCountUnderWork": 2,
@@ -503,6 +557,7 @@
             "incomeLanKjoretoyCurrentMonth": 10000,
             "incomeOmstartslanCurrentMonth": 12000,
             "incomeForbrukslanCurrentMonth": 10000,
+            "incomeBedriftslanCurrentMonth": 1000,
             "appsCountNotWorkedWith": 5,
             "appsCountNoContact": 1,
             "appsCountUnderWork": 2,
@@ -550,6 +605,7 @@
             "incomeLanKjoretoyCurrentMonth": 12000,
             "incomeOmstartslanCurrentMonth": 10000,
             "incomeForbrukslanCurrentMonth": 12000,
+            "incomeBedriftslanCurrentMonth": 1000,
             "appsCountNotWorkedWith": 5,
             "appsCountNoContact": 3,
             "appsCountUnderWork": 1,
@@ -597,6 +653,7 @@
             "incomeLanKjoretoyCurrentMonth": 10000,
             "incomeOmstartslanCurrentMonth": 12000,
             "incomeForbrukslanCurrentMonth": 10000,
+            "incomeBedriftslanCurrentMonth": 1000,
             "appsCountNotWorkedWith": 5,
             "appsCountNoContact": 3,
             "appsCountUnderWork": 2,
@@ -644,6 +701,7 @@
             "incomeLanKjoretoyCurrentMonth": 12000,
             "incomeOmstartslanCurrentMonth": 10000,
             "incomeForbrukslanCurrentMonth": 12000,
+            "incomeBedriftslanCurrentMonth": 1000,
             "appsCountNotWorkedWith": 5,
             "appsCountNoContact": 3,
             "appsCountUnderWork": 2,
