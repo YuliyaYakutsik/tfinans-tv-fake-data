@@ -603,12 +603,17 @@
         "currentMonthPortfolioComissionSoFar": 220000,
         "currentMonthDeductionInComissionSoFar": 220000,
         "currentYear": 4410907.4,
+        "currentHalfYear": 2345678.5,
         "currentYearGoal": 3500000,
+        "currentHalfYearGoal": 1800000,
         "currentYearGoalSoFar": 3900000,
+        "currentHalfYearGoalSoFar": 1200000,
         "currentYearPortfolioComissionSoFar": 220000,
         "currentYearDeductionInComissionSoFar": 220000,
+        "currentHalfYearGoalTitle": "1,7 mill",
         "currentYearGoalTitle": "3,5 mill",
         "currentYearGoalProgress": 38562,
+        "currentHalfYearGoalProgress": 21345,
         "currentYearGoalProgressTitle": "some"
     },
     "loans": {
