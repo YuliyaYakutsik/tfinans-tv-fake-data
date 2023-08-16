@@ -480,9 +480,9 @@
             "incomeForbrukslanCurrentMonth": 10000,
             "incomeBedriftslanCurrentMonth": 1000,
             "appsCountNotWorkedWith": 5,
-            "appsCountNoContact": 3,
-            "appsCountUnderWork": 2,
-            "appsCountSent": 13,
+            "appsCountWorkedWith": 10,
+            "appsCountSentCurrentWeek": 3,
+            "appsCountSentLastWeek": 15,
             "appsCountSentThisMonth": 10
         },
         {
@@ -540,9 +540,9 @@
             "incomeForbrukslanCurrentMonth": 12000,
             "incomeBedriftslanCurrentMonth": 1000,
             "appsCountNotWorkedWith": 4,
-            "appsCountNoContact": 3,
-            "appsCountUnderWork": 2,
-            "appsCountSent": 13,
+            "appsCountWorkedWith": 1,
+            "appsCountSentCurrentWeek": 7,
+            "appsCountSentLastWeek": 35,
             "appsCountSentThisMonth": 10
         },
         {
@@ -600,9 +600,9 @@
             "incomeForbrukslanCurrentMonth": 10000,
             "incomeBedriftslanCurrentMonth": 1000,
             "appsCountNotWorkedWith": 5,
-            "appsCountNoContact": 1,
-            "appsCountUnderWork": 2,
-            "appsCountSent": 13,
+            "appsCountWorkedWith": 15,
+            "appsCountSentCurrentWeek": 13,
+            "appsCountSentLastWeek": 15,
             "appsCountSentThisMonth": 10
         },
         {
@@ -660,9 +660,9 @@
             "incomeForbrukslanCurrentMonth": 12000,
             "incomeBedriftslanCurrentMonth": 1000,
             "appsCountNotWorkedWith": 5,
-            "appsCountNoContact": 3,
-            "appsCountUnderWork": 1,
-            "appsCountSent": 13,
+            "appsCountWorkedWith": 10,
+            "appsCountSentCurrentWeek": 3,
+            "appsCountSentLastWeek": 15,
             "appsCountSentThisMonth": 10
         },
         {
@@ -720,9 +720,9 @@
             "incomeForbrukslanCurrentMonth": 10000,
             "incomeBedriftslanCurrentMonth": 1000,
             "appsCountNotWorkedWith": 5,
-            "appsCountNoContact": 3,
-            "appsCountUnderWork": 2,
-            "appsCountSent": 17,
+            "appsCountWorkedWith": 10,
+            "appsCountSentCurrentWeek": 3,
+            "appsCountSentLastWeek": 15,
             "appsCountSentThisMonth": 10
         },
         {
@@ -780,9 +780,9 @@
             "incomeForbrukslanCurrentMonth": 12000,
             "incomeBedriftslanCurrentMonth": 1000,
             "appsCountNotWorkedWith": 5,
-            "appsCountNoContact": 3,
-            "appsCountUnderWork": 2,
-            "appsCountSent": 13,
+            "appsCountWorkedWith": 10,
+            "appsCountSentCurrentWeek": 3,
+            "appsCountSentLastWeek": 15,
             "appsCountSentThisMonth": 9
         }
     ],
@@ -809,9 +809,7 @@
         "currentHalfYearDeductionInComissionSoFar": 200000,
         "currentHalfYearGoalTitle": "1,7 mill",
         "currentYearGoalTitle": "3,5 mill",
-        "currentYearGoalProgress": 38562,
-        "currentHalfYearGoalProgress": 21345,
-        "currentYearGoalProgressTitle": "some"
+        "currentHalfYearGoalProgress": 21345
     },
     "loans": {
         "amountCurrentYear": 243,
