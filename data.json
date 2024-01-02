@@ -1,6 +1,7 @@
 {
     "pastWorkingDays": 24,
     "totalWorkingDays": 30,
+    "showFirstHalfYearInfo": false,
     "categories": [
         {
             "id": 1,
